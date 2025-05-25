@@ -42,7 +42,7 @@ This dashboard provides an in-depth analysis of Rohit Sharma's IPL career using 
 - Comparative stats with **other IPL legends**.
 
 ## Demo / Screenshot
-(https://github.com/Devendra661/Rohit-Sharma-Ipl-Dashboard/blob/main/Rohit%20Sharma%20Ipl%20Dashboard.png)
+![Image](https://github.com/user-attachments/assets/6e22034b-86c9-4d84-be28-ad51d9ee0dca)
 
 
 This dashboard is a must-have tool for cricket fans, analysts, and strategists looking to explore Rohit Sharma's IPL journey like never before! 🏏🔥
